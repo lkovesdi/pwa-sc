@@ -1,0 +1,22 @@
+{
+  "name": "SocialCrowd",
+  "short_name": "SocialCrowd",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#000",
+  "background_color": "#000",
+  "start_url": "/?standalone=true",
+  "icons": [
+    {
+      "src": "/icons/SocialCrowdIcon_new.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/SocialCrowdIcon_new.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
